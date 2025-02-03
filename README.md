@@ -1,5 +1,4 @@
-![Pasted image (8)](https://github.com/user-attachments/assets/726e42d9-b296-4326-bbd0-dc840c43f5f0)
-
+![Grey and Black Professional LinkedIn Article Cover Image(4)](https://github.com/user-attachments/assets/2a56c924-bda7-40ed-9db9-090d3ad3a97d)
 
 # 💫 About Me:
 I am currently pursuing a degree in Computer Science and Engineering at Prime University. My passion for programming has been a driving force since childhood, motivating me to excel and continuously improve my skills. Over the years, I have developed projects in C, C++, and Java, demonstrating my ability to solve problems and deliver effective solutions through self-driven efforts.<br><br>In addition to programming, I am delving into networking and cybersecurity, actively practicing on platforms like TryHackMe and HackTheBox to enhance my expertise in this field. Furthermore, I have honed my skills as a front-end developer, showcasing adaptability and a commitment to expanding my technical knowledge.<br><br>I am deeply passionate about exploring and mastering new concepts in the ever-evolving world of programming, and I am eager to contribute meaningfully to the field.<br><br>Thank you.
